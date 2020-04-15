@@ -1,5 +1,6 @@
 # C pointer source code
-This is a template of c pointer.
+This is a template of c pointer,
+Made for your c programming comforts.
 
 # how to use
 
