@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586946375 source:c:\users\bumbl\desktop\pointertest\main.c
+	<stdio.h>
+	<stdlib.h>
+
